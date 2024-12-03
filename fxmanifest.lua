@@ -24,4 +24,10 @@ client_scripts {
 
 }
 
+dependencies {
+
+    'qb-target',
+    'qb-core'
+}
+
 lua54 'yes'
