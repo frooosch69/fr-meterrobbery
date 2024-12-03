@@ -16,4 +16,6 @@ Simple Parking Meter Robbery Script for qb-core
 
 Dependencies:
 [QB-Target](https://github.com/qbcore-framework/qb-target)
+
+
 [QB-Core](https://github.com/qbcore-framework/qb-core)
