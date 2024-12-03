@@ -4,6 +4,8 @@ Simple Parking Meter Robbery Script for qb-core
 [Preview](https://youtu.be/o3hwo6CBDDg) Video
 
 [Discord](https://discord.gg/ZrMmUp3TBw) Support, Help and Feadback
+- Active Support
+
 
 - Advanced Cooldown system
 - Changable Lockpick Item
@@ -12,4 +14,6 @@ Simple Parking Meter Robbery Script for qb-core
 - Changable Lootpool
 - More features to come..
 
-- Active Support
+Dependencies:
+[QB-Target](https://github.com/qbcore-framework/qb-target)
+[QB-Core](https://github.com/qbcore-framework/qb-core)
