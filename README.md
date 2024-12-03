@@ -1,8 +1,8 @@
 # fr-meterrobbery
 Simple Parking Meter Robbery Script for qb-core
 
-[Preview](https://youtu.be/o3hwo6CBDDg)
-[Discord](https://discord.gg/ZrMmUp3TBw)
+[Preview](https://youtu.be/o3hwo6CBDDg) Video
+[Discord](https://discord.gg/ZrMmUp3TBw) Support, Help and Feadback
 
 - Advanced Cooldown system
 - Changable Lockpick Item
