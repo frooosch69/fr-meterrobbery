@@ -4,8 +4,6 @@ Advanced Parking Meter Robbery Script for QBCORE
 [Preview](https://youtu.be/o3hwo6CBDDg) Video
 
 [Discord](https://discord.gg/ZrMmUp3TBw) Support, Help and Feadback
-- Active Support
-
 
 # Features
 - Advanced Cooldown system
