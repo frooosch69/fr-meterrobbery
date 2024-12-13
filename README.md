@@ -1,5 +1,5 @@
 # fr-meterrobbery
-Simple Parking Meter Robbery Script for qb-core
+Advanced Parking Meter Robbery Script for QBCORE
 
 [Preview](https://youtu.be/o3hwo6CBDDg) Video
 
@@ -7,6 +7,7 @@ Simple Parking Meter Robbery Script for qb-core
 - Active Support
 
 
+# Features
 - Advanced Cooldown system
 - Changable Lockpick Item
 - Changable Skill Check [SN-Hacking](https://github.com/skeletonnetworks/SN-Hacking) and [PS-UI](https://github.com/Project-Sloth/ps-ui)
@@ -14,9 +15,7 @@ Simple Parking Meter Robbery Script for qb-core
 - Changable Lootpool
 - More features to come..
 
-Dependencies:
-
-
+# Dependencies:
 [QB-Target](https://github.com/qbcore-framework/qb-target)
 
 
