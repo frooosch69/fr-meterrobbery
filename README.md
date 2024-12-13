@@ -20,3 +20,9 @@ Advanced Parking Meter Robbery Script for QBCORE
 
 
 [QB-Core](https://github.com/qbcore-framework/qb-core)
+
+
+[PS-DISPATCH](https://github.com/Project-Sloth/ps-dispatch)
+
+
+[PS-UI](https://github.com/Project-Sloth/ps-ui) or [SN-Hacking](https://github.com/skeletonnetworks/SN-Hacking)
