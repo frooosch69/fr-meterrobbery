@@ -81,7 +81,7 @@ RegisterNetEvent('fr-meterrobbery:server:removelockpick', function()
     if Player then
         if Player.Functions.GetItemByName(lockpickitem) then
             Player.Functions.RemoveItem(lockpickitem, 1)
-            TriggerClientEvent('ps-inventory:client:ItemBox', src, QBCore.Shared.Items[lockpickitem], "remove")
+            TriggerClientEvent('qb-inventory:client:ItemBox', src, QBCore.Shared.Items[lockpickitem], "remove")
         else
             print("W")
         end
